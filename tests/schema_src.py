@@ -29,7 +29,15 @@ _source_transactions_data = [
     (datetime.datetime(2020, 1, 1, 2, 0, 0), 2, -1, 100),
     (datetime.datetime(2020, 1, 1, 2, 0, 0), 2, -1, 100),
     (datetime.datetime(2020, 1, 1, 3, 0, 0), 3, 1, 150),
-    (datetime.datetime(2020, 1, 1, 3, 0, 0), 3, 1, 200)
+    (datetime.datetime(2020, 1, 1, 3, 0, 0), 3, 1, 200),
+    (datetime.datetime(2022, 6, 1, 0, 0, 0), 1, -1, 100),
+    (datetime.datetime(2022, 6, 1, 1, 0, 0), 1, -1, 100),
+    (datetime.datetime(2022, 6, 1, 2, 0, 0), 2, -1, 100),
+    (datetime.datetime(2022, 6, 1, 2, 0, 0), 2, -1, 100),
+    (datetime.datetime(2022, 6, 1, 3, 0, 0), 3, 1, 150),
+    (datetime.datetime(2022, 6, 1, 3, 0, 0), 3, 1, 200),
+    (datetime.datetime(2022, 6, 5, 3, 0, 0), 3, 1, 150),
+    (datetime.datetime(2022, 6, 5, 4, 0, 0), 3, 1, 200),
 ]
 
 _source_operation_types_data = [
